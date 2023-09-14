@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RadioButtonKdvDahil" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#38FF00</item>
+        <item name="android:textColorSecondary">@color/r3</item>
+        <item name="colorControlNormal">@color/r3</item>
+    </style>
+    <style name="RadioButtonKdvHaric" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#FF0000</item>
+        <item name="android:textColorSecondary">@color/r3</item>
+        <item name="colorControlNormal">@color/r3</item>
+    </style>
+</resources>
