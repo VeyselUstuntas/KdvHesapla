@@ -1,14 +1,11 @@
-# KdvHesapla
+# KDV Hesaplama Uygulaması
 
-![ss1](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/2e196b3a-07ff-4a06-b8f0-6fad9fac5cdc)
+KDV Hesapla
 
+* ![rr1](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/e433e522-c771-4b0e-a574-28d34f97a085)
+  
+* ![rr2](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/d4a5b648-b670-435a-ba24-0e89a8d4029e)
+  
+* ![rr3](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/593ee3de-125a-4bd4-8b7b-c19a713ab1f8)
 
-[ss2](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/22ae861e-545d-4d07-a7c1-0625ca7259c5)
-
-
-[ss3](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/3f733f56-313e-4a98-b51e-3635948e2a64)
-
-
-[ss4](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/907a63b2-c8eb-4b7a-b4ac-2977803236ef)
-
-
+* ![rr4](https://github.com/VeyselUstuntas/KdvHesapla/assets/70425868/a1f1568b-e310-48b6-bbed-bc3ec1f12058)
